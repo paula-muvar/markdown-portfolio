@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* _*Item*_ 1
+   * Item 2
+     * Item 2a :palm_tree:
+         * Item 2b :heart:
