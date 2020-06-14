@@ -1,1 +1,1 @@
-[__Perfil__ de *Paula Muvar*] (https://github.com/paula-muvar)
+[__Perfil__ de *Paula Muvar*](https://github.com/paula-muvar)
